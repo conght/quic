@@ -24,6 +24,11 @@ is a general purpose protocol built primarily with HTTP in mind, but
 there is no reason not to use it as a replacement for TCP in other
 non-HTTP based connections.
 
+QUIC Discussions:
+ proto-quic@chromium.org
+ https://groups.google.com/a/chromium.org/d/forum/proto-quic
+
+
 [1] http://blog.chromium.org/2013/06/experimenting-with-quic.html
 [2] https://docs.google.com/document/d/1RNHkx_VvKWyWg6Lr8SZ-saqsQx7rFV-ev2jRFUoVD34/preview?sle=true
 [3] https://docs.google.com/document/d/1lmL9EF6qKrk7gbazY8bIdvq3Pno2Xj_l_YShP40GLQE/edit#heading=h.h3jsxme7rovm
